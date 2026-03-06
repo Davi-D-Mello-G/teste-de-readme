@@ -13,24 +13,8 @@ Este projeto foi desenvolvido como parte do **Projeto Integrador do curso de Des
 
 # 1.  Descrição
 
-O nosso projeto consiste em um sistema baseado em plataformas utilizadas por instituições de ensino técnico.
+O nosso projeto é um sistema baseado em plataformas utilizadas por instituições de ensino técnico, enfrentamos problemas em nossa instituição de ensino devido a má otimização da plataforma, a falta de funcionalidades e a difícil comunicação entre alunos e docentes - sendo necessário a utilização de plataformas externas para melhor interação online. A nossa proposta é a criação de um sistema base para todas as instituições de ensino técnico do país, que permita uma melhora significativa na comunicação entre docentes e alunos, possua interface intuitiva, acessibilidade para todos, calendário de eventos que pode ser atualizado pelos docentes e pela diretoria, e que seja acessada de forma prática e rápida.
 
-Durante a utilização das plataformas institucionais atuais, foram identificados alguns problemas, como:
-
-- Má otimização da plataforma
-- Falta de funcionalidades importantes
-- Dificuldade de comunicação entre alunos e docentes
-- Necessidade de utilização de plataformas externas para interação online
-
-Diante desse cenário, a proposta do projeto é o desenvolvimento de um **sistema base para instituições de ensino técnico**, que proporcione uma melhora significativa na comunicação entre docentes e alunos.
-
-A plataforma terá como principais características:
-
-- Interface intuitiva
-- Acessibilidade para diferentes perfis de usuários
-- Calendário de eventos atualizado por docentes e pela diretoria
-- Acesso rápido e prático às informações acadêmicas
-- Centralização da comunicação institucional
 
 ---
 
@@ -72,7 +56,6 @@ Entre as funcionalidades previstas no sistema estão:
 - Painel de informações acadêmicas
 - Calendário institucional de eventos
 - Comunicação entre docentes e alunos
-- Gerenciamento de usuários integrado ao Active Directory
 - Interface responsiva para diferentes dispositivos
 
 ---
