@@ -13,8 +13,8 @@ Diante desse cenário, o desenvolvimento de uma plataforma digital simples, intu
 <h3>2. Público-Alvo</h3>
 
 A plataforma é direcionada principalmente para:
- Administradores de TI
- Equipe de infraestrutura e redes
- Gestores de tecnologia educacional
- Coordenadores administrativos
- Equipe responsável pela gestão de contas institucionais
+- Administradores de TI
+- Equipe de infraestrutura e redes
+- Gestores de tecnologia educacional
+- Coordenadores administrativos
+- Equipe responsável pela gestão de contas institucionais
