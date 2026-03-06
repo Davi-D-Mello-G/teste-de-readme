@@ -1,12 +1,13 @@
 # Estratégia de Lançamento e Posicionamento Digital para a Plataforma Integrada SENAI: Gestão Automatizada de Usuários AD e Painéis de Informação
 
+Este projeto foi desenvolvido como parte do **Projeto Integrador do curso de Desenvolvimento de Sistemas do SENAI**.
+
 ##  Integrantes
 - Lucas Bento  
 - Gabriel Plantz  
-- Pedro Campos  
+- Pedro Campos 
 - Davi de Mello  
 
-Este projeto foi desenvolvido como parte do **Projeto Integrador do curso de Desenvolvimento de Sistemas do SENAI**.
 
 ---
 
