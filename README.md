@@ -28,6 +28,7 @@ A plataforma é direcionada principalmente para:
 
 
 <h3>4. Tecnologias utilizados</h3>
+
 - Java
 - JavaScript
 - HTML e CSS
