@@ -18,3 +18,24 @@ A plataforma é direcionada principalmente para:
 - Coordenadores administrativos
 - Equipe responsável pela gestão de contas institucionais
 
+  
+<h3>3. Funcionalidades</h3>
+
+- Cadastro de usuários
+- Login e autenticação
+- Registro de dados por aluno (como notas, 
+[...]
+
+
+<h3>4. Tecnologias utilizados</h3>
+- Java
+- JavaScript
+- HTML e CSS
+- Postgres
+- Git
+- VS Code
+- GitHub 
+
+<h3>5. Estrutura do Projeto</h3>
+[...]
+
