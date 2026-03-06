@@ -1,6 +1,6 @@
 # Estratégia de Lançamento e Posicionamento Digital para a Plataforma Integrada SENAI: Gestão Automatizada de Usuários AD e Painéis de Informação
 
-## 👥 Integrantes
+##  Integrantes
 - Lucas Bento  
 - Gabriel Plantz  
 - Pedro Campos  
@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte do **Projeto Integrador do curso de Des
 
 ---
 
-# 1. 📌 Descrição
+# 1.  Descrição
 
 O nosso projeto consiste em um sistema baseado em plataformas utilizadas por instituições de ensino técnico.
 
@@ -33,7 +33,7 @@ A plataforma terá como principais características:
 
 ---
 
-# 2. 🎯 Objetivos
+# 2.  Objetivos
 
 ### Objetivo Geral
 Desenvolver uma plataforma digital integrada que facilite a comunicação e o acesso às informações acadêmicas dentro das instituições de ensino técnico.
@@ -48,7 +48,7 @@ Desenvolver uma plataforma digital integrada que facilite a comunicação e o ac
 
 ---
 
-# 3. 🎯 Público-Alvo
+# 3.  Público-Alvo
 
 A plataforma é direcionada principalmente para:
 
@@ -61,7 +61,7 @@ A plataforma é direcionada principalmente para:
 
 ---
 
-# 4. ⚙️ Funcionalidades
+# 4.  Funcionalidades
 
 Entre as funcionalidades previstas no sistema estão:
 
@@ -76,7 +76,7 @@ Entre as funcionalidades previstas no sistema estão:
 
 ---
 
-# 5. 🛠 Tecnologias Utilizadas
+# 5.  Tecnologias Utilizadas
 
 As principais tecnologias utilizadas no desenvolvimento do projeto são:
 
@@ -91,4 +91,4 @@ As principais tecnologias utilizadas no desenvolvimento do projeto são:
 
 ---
 
-# 6. 📂 Estrutura do Projeto
+# 6.  Estrutura do Projeto
