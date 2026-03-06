@@ -7,13 +7,13 @@ Este projeto foi desenvolvido como parte do Projeto Integrador do curso de Desen
 
 O nosso projeto é um sistema baseado em plataformas utilizadas por instituições de ensino técnico, enfrentamos problemas em nossa instituição de ensino devido a má otimização da plataforma, a falta de funcionalidades e a difícil comunicação entre alunos e docentes - sendo necessário a utilização de plataformas externas para melhor interação online. A nossa proposta é a criação de um sistema base para todas as instituições de ensino técnico do país, que permita uma melhora significativa na comunicação entre docentes e alunos, possua interface intuitiva, acessibilidade para todos, calendário de eventos que pode ser atualizado pelos docentes e pela diretoria, e que seja acessada de forma prática e rápida.
 
-<h3>Objetivos</h3>
+<h3>2. Objetivos</h3>
 
 - Desenvolver um sistema para...
 - Aplicar conceitos de...
 - Melhorar o processo de...
 
-<h3>2. Público-Alvo 😁</h3>
+<h3>3. Público-Alvo 😁</h3>
 
 A plataforma é direcionada principalmente para:
 - Administradores de TI
@@ -23,7 +23,7 @@ A plataforma é direcionada principalmente para:
 - Equipe responsável pela gestão de contas institucionais
 
   
-<h3>3. Funcionalidades</h3>
+<h3>4. Funcionalidades</h3>
 
 - Cadastro de usuários
 - Login e autenticação
@@ -31,7 +31,7 @@ A plataforma é direcionada principalmente para:
 [...]
 
 
-<h3>4. Tecnologias utilizados</h3>
+<h3>5. Tecnologias utilizados</h3>
 
 - Java
 - JavaScript
@@ -41,6 +41,6 @@ A plataforma é direcionada principalmente para:
 - VS Code
 - GitHub 
 
-<h3>5. Estrutura do Projeto</h3>
+<h3>6. Estrutura do Projeto</h3>
 [...]
 
