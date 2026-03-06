@@ -3,6 +3,6 @@
 
 Este projeto foi desenvolvido como parte do Projeto Integrador do curso de Desenvolvimento de Sistema do SENAI. 
 
-Muitos estudantes e docentes têm dificuldade em acessar a plataforma online de suas instituições, podendo ser causas técnicas, responsividade do site ou falta de design intuitivo. Podendo causar má comunicação entre docentes, alunos e diretoria, falta de engajamento e atrasos de trabalhos devido a dificuldade da interação entre alunos e docentes. Um site simples, intuitivo, responsivo e com acesso a dados de forma dinâmica seria uma boa opção para a instituição, garantindo uma comunicação eficaz entre docentes e alunos.
-
-
+Muitos estudantes e docentes enfrentam dificuldades no acesso às plataformas digitais disponibilizadas pelas instituições de ensino. Essas dificuldades podem estar relacionadas a fatores técnicos, à falta de responsividade do sistema em diferentes dispositivos ou a um design pouco intuitivo, que dificulta a navegação e a localização de informações importantes.
+Esses problemas podem impactar diretamente a comunicação entre alunos, professores e a equipe administrativa da instituição, resultando em menor engajamento dos usuários, atrasos na entrega de atividades e dificuldades na interação entre docentes e discentes.
+Diante desse cenário, o desenvolvimento de uma plataforma digital simples, intuitiva e responsiva apresenta-se como uma solução viável. Um sistema com interface amigável e acesso dinâmico às informações institucionais pode facilitar a comunicação, otimizar o acesso a dados relevantes e melhorar a experiência dos usuários. Dessa forma, a instituição poderá promover uma comunicação mais eficiente entre docentes e alunos, contribuindo para um ambiente acadêmico mais organizado e produtivo.
